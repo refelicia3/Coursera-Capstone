@@ -1,5 +1,5 @@
 Having said that, I will be using the Road Traffic Conditions data set (RTC Location 2018.csv). 
 This data file is available from the Cambridgeshire County Council web site.
 I will be testing the data from 2018. This data set contains all of the factors that I've previously mentioned, and maybe included on my model.
-This Comma Separated Value (CSV) file will require data cleansing (preparation) in order to convert strings (defined as a Python object) into Integers.
-Once these columns are converted to Integers, the columns can be fitted into a train-test-split regression model.
+This Comma Separated Value (CSV) file will require data cleansing (preparation) in order to convert strings (defined as a Python object) into an Integer.
+Once these columns are converted to Integer, the columns can be fitted into a train-test-split regression model.
