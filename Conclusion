@@ -1,1 +1,14 @@
-
+The F1 Score and Jaccard similarity index calculations suggest that this data set may not be a good model to accurately predict Road Traffic Accidents 
+for this county.  Unless there is another data set available with the recommended values covered on the Discussion section.
+The root causes for accidents on Dry, Clear and in broad daylight may be a direct result of the following:
+More cars are on the road during these conditions. 
+There are less cars when the road is Frosty or Icy.
+The vehicles may have experienced a problem.  The vehicle's age was not available for interpretation.  Perhaps, the driver had a braking problem.
+Collisions may have been a result of reckless driving.  This is common when the Speed Limit is 60 KM or above.
+The driver may have been distracted or texting. This information was not available on the data set.
+The driver's age was not disclosed on this data set. 
+If the driver is 18 or below, this may suggest that the driver does not have extensive driving experience to avoid an accident.
+The driver's health condition was also not available. The driver may have suffered a medical condition that led to the accident.
+The driver may have slept on the wheel, and as a result, may have caused the accident.
+If these recommended data responses are made available, another regression can be performed. 
+The accuracy score should be much higher than the ones calculated during this time.
