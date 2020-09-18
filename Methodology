@@ -1,0 +1,8 @@
+My approach was to code in Python and running the code using Jupyter Notebook on an IBM Watson platform.
+There were four columns that required Data Cleansing from a Python object into an Integer.
+These columns are Severity, Road Conditions (Road_Con), Visibility and Weather.
+In addition, I assigned arbitrary numeric values to each column.
+For Severity, a value of a 1 was assigned to Fatal. A value of a 2 for Serious and a 3 for Slight.
+A similar rating scale was created for the Road_Con and Weather.
+To derive the prediction, I calculated the F1 Score and Jaccard Index.
+I decide to run the analysis using two models, Logistic Regression and Support Vector Matrix (SVM).
