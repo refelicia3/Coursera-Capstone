@@ -1,1 +1,15 @@
-
+Observations:
+More accidents occured on a Dry Road Condition (defined as a 20 on the Road Dictionary. The highest value is 80 for Frosty or Icy Road.
+In general, there were more casualties when the Speed Limit was either 60 KM (kilometers) or 70 KM.
+There were more casualties when the Weather was "Fine with No High Wind".  This was defined as a 10 on the Weather Dictionary.
+There were more accidents in Daylight (defined as a 10 on the Visibility Dictionary).
+The highest casualty per incident (20, 11) happened on a Dry road, in broad Daylight, and on a clear (Fine with no high wind) day.
+Road number 0 (zero) had the most number of casualties at 223. This was followed by Road Number 47.  The casualties were considered Fatal or Serious.
+There appears to be more road volume during Daylight and when the conditions are Clear (Weather) and Dry (Road).
+Severity 3 (defined as Slight Casualties) has the highest volume of personal accidents.
+Recommendations:
+I recommend that the Cambridgeshire County needs to capture more information on their Collision data set.
+What was the extent of the personal injury?
+What was the damage to the vehicles?
+Was the driver or drivers under the influence of alcohol?  Was the driver under the influence of drugs?
+How fast was the vehicle driving above the speed limit?
