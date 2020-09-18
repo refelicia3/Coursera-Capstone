@@ -1,1 +1,4 @@
-
+The calculation results from the Logistic Regression (LR) and Support Vector Machine (SVM) did not yield high accuracy scores.
+From LR, the F1 Score was 0.6076 and the Jaccard was 0.7236.
+SVM yielded an F1 Score of 0.6284 and a Jaccard of 0.7358.
+This suggests that the models needed more precise data in order to derive a higher accuracy score.
