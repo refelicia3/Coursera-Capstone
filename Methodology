@@ -1,4 +1,4 @@
-My approach was to code in Python and running the code using Jupyter Notebook on an IBM Watson platform.
+My approach was to code in Python and running the object using Jupyter Notebook on an IBM Watson platform.
 There were four columns that required Data Cleansing from a Python object into an Integer.
 These columns are Severity, Road Conditions (Road_Con), Visibility and Weather.
 In addition, I assigned arbitrary numeric values to each column.
